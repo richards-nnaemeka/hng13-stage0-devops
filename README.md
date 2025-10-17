@@ -1,6 +1,4 @@
-Name: Mkpuma Richards Nnaemeka
-Slack: Emmy Richards
-Welcome to DevOps Stage 0 - Mkpuma Richards Nnaemeka/Emmy Richards
-Successfully deployed on AWS EC2
-Deployed: 10/16/2025
-http://13.60.157.94/
+Name: Mkpuma Nnaemeka
+Slack Username: @NnaRichards
+Description: This is my Stage 0 DevOps project where I deployed a simple NGINX web server that displays a custom HTML page.
+Server IP/Domain: http://13.60.157.94/
