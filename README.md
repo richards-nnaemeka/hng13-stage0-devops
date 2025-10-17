@@ -1,4 +1,11 @@
-Name: Mkpuma Nnaemeka
-Slack Username: @NnaRichards
-Description: This is my Stage 0 DevOps project where I deployed a simple NGINX web server that displays a custom HTML page.
-Server IP/Domain: http://13.60.157.94/
+# DevOps Stage 0 - HNG13
+
+**Name:** Mkpuma Richards Nnaemeka
+**Slack Username:** Emmy Richards
+**Server IP:** http://16.170.243.96
+
+## Project Description
+AWS EC2 Ubuntu instance running NGINX web server for HNG13 DevOps Stage 0 task.
+
+## Access URL
+http://16.170.243.96
